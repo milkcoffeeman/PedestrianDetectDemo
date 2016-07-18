@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/res/merged/debug/raw/left.mp3",
+        "source": "/Users/guotao/Desktop/PedestrianDetectDemo/res/raw/left.mp3"
+    },
+    {
+        "merged": "/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/res/merged/debug/raw/haarcascade_fullbody.xml",
+        "source": "/Users/guotao/Desktop/PedestrianDetectDemo/res/raw/haarcascade_fullbody.xml"
+    },
+    {
+        "merged": "/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/res/merged/debug/raw/center.mp3",
+        "source": "/Users/guotao/Desktop/PedestrianDetectDemo/res/raw/center.mp3"
+    },
+    {
+        "merged": "/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/res/merged/debug/raw/right.mp3",
+        "source": "/Users/guotao/Desktop/PedestrianDetectDemo/res/raw/right.mp3"
+    }
+]

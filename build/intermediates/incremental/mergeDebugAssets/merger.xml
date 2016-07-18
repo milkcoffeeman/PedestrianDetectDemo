@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="/Users/guotao/Desktop/PedestrianDetectDemo/assets"/><source path="/Users/guotao/Desktop/PedestrianDetectDemo/build/generated/assets/shaders/debug"/></dataSet><dataSet config="debug"><source path="/Users/guotao/Desktop/PedestrianDetectDemo/build-types/debug/assets"/></dataSet></merger>

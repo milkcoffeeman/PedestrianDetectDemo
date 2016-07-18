@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="armeabi-v7a,armeabi"
+    api-level="23"
+    density="xxhdpi"
+    format="7"
+    timestamp="1468870986145312000"
+    token="5150152873247352296" >
+
+    <task
+        name="javac"
+        duration="107" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="41" />
+    <task
+        name="verifier"
+        duration="8" />
+
+    <artifact
+        location="/Users/guotao/Desktop/PedestrianDetectDemo/build/outputs/apk/PedestrianDetectDemo-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="1468870986145312000" >
+        <artifact
+            location="/Users/guotao/Desktop/PedestrianDetectDemo/build/outputs/apk/PedestrianDetectDemo-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>

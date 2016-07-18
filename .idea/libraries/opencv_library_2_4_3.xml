@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="opencv_library-2.4.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/opencv_library-2.4.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

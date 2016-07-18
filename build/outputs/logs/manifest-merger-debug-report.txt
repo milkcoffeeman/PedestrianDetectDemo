@@ -1,0 +1,61 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:2:1-30:12
+	xmlns:android
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:2:11-69
+	package
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:3:5-47
+	android:versionName
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:5:5-30
+		INJECTED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml
+		INJECTED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml
+		INJECTED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml
+uses-sdk
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:9:9-38
+	android:minSdkVersion
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:8:9-35
+uses-permission#android.permission.CAMERA
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:10:22-62
+uses-feature#android.hardware.camera
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:11:5-60
+	android:name
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:11:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:12:5-95
+	android:required
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:12:68-92
+	android:name
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:12:19-67
+application
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:14:5-28:19
+	android:label
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:18:9-40
+activity#org.opencv.samples.facedetect.MainActivity
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:19:9-27:20
+	android:label
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:21:13-45
+	android:name
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:20:13-70
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:22:13-26:29
+action#android.intent.action.MAIN
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:23:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:25:17-77
+	android:name
+		ADDED from /Users/guotao/Desktop/PedestrianDetectDemo/AndroidManifest.xml:25:27-74

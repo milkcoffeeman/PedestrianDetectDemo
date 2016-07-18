@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="68cd227b6048dcfe8f1e6ba90bd090dc3285bb37">
+        <dex dex="/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b6ca182f956d601dc3f54f3afd8ef539d30ef999/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guotao/Desktop/PedestrianDetectDemo/libs/opencv_library-2.4.3.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="e92dfaeacc97afc46002172e0d0d55b33838715b">
+        <dex dex="/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/transforms/dex/debug/folders/1000/2/opencv_library-2.4.3_c1b5896295d7ea17ea7fcc41375409f3eeb27634/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fe501e9a0c7a5746c80ff08c29106853677f5167">
+        <dex dex="/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_58e8f6bbff199020a03d25f455bddceda7e280d6/classes.dex" />
+    </item>
+    <item
+        jar="/Users/guotao/Desktop/PedestrianDetectDemo/libs/android-support-v4.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="fb6b7b885e8f62731e3f2fb9e64970e2d1d5ef5b">
+        <dex dex="/Users/guotao/Desktop/PedestrianDetectDemo/build/intermediates/transforms/dex/debug/folders/1000/2/android-support-v4_004f7e35fc118a4d6041ba98c5a05633ba3ae9d8/classes.dex" />
+    </item>
+
+</items>
